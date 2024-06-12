@@ -1,0 +1,70 @@
+.welcome-banner {
+    position: relative;
+    height: calc(100vh - 6.5rem);
+    background-position: center;
+    background-size: cover;
+}
+
+.welcome-banner-content {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    width: 22rem;
+    color: #023047;
+    text-shadow: 1px 1px 2px gray;
+}
+
+.welcome-banner h1 {
+    text-align: right;
+    color: white;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.welcome-banner p {
+    text-align: right;
+    color: white;
+    font-size: 1.25rem;
+    font-weight: bold;
+    height: 5rem;
+    width: 22rem;
+}
+
+@media (min-width: 768px) {
+    .welcome-banner-content p {
+        font-size: 1.87rem;
+    }
+
+    .welcome-banner-content h1 {
+        font-size: 3.75rem;
+    }
+}
+
+.info-banner {
+    position: relative;
+    height: calc(100vh - 2.9rem);
+    background-position: center;
+    background-size: cover;
+}
+
+.info-banner-content {
+    position: absolute;
+    top: 5rem;
+    left: 1rem;
+    color: #FFFBEB;
+    text-shadow: 1px 1px 2px gray;
+}
+
+.info-banner h1 {
+    color: #FFFBEB;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.info-banner p {
+    color: #FFFBEB;
+    font-size: 1.25rem;
+    font-weight: bold;
+    height: 5rem;
+    width: 20rem;
+}

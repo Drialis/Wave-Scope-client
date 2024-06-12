@@ -1,0 +1,15 @@
+.Footer {
+  position: fixed;
+  bottom: 0;
+  z-index: 9999;
+  width: 100%;
+  height: 50px;
+  background-color: #023047;
+  color: white;
+}
+
+.Footer p {
+  margin-top: 15px;
+  padding: 0;
+  color: #FFFBEB
+}

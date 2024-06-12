@@ -1,0 +1,11 @@
+.BeachDetailsCard {
+    width: 90%;
+    margin: auto auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    --bs-card-border-radius: 50px !important
+}
+
+.button-margin {
+    margin-right: 10px;
+}

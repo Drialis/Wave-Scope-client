@@ -1,0 +1,11 @@
+.NewBeachForm {
+    margin: auto auto;
+    width: 90%;
+}
+
+.BusStopGroup {
+    padding: 10px;
+    --bs-card-bg: #9CE6DE !important;
+    border-color: #9CE6DE !important;
+
+}

@@ -1,0 +1,14 @@
+.not-found-container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+}
+
+.not-found-image {
+    max-height: 100vh;
+    max-width: 100%;
+    object-fit: cover;
+
+}

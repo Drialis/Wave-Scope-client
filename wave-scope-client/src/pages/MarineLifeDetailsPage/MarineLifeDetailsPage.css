@@ -1,0 +1,17 @@
+.specimen-carousel {
+  margin-top: 15px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 20px
+}
+
+
+.carousel-image {
+  width: 100%;
+  height: 450px;
+  object-fit: cover;
+}
+
+.SpecimenDetailsPage {
+  margin-bottom: 70px !important;
+}

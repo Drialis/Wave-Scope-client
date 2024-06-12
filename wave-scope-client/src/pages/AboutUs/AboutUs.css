@@ -1,0 +1,19 @@
+.AboutUsPictures {
+    object-fit: cover;
+    object-position: top;
+    width: 100%;
+
+}
+
+.card .rounded-3 {
+    --bs-border-radius: 30px !important
+}
+
+.AboutUs .card {
+    --bs-card-bg: none !important;
+}
+
+.GitHubLink {
+    text-decoration: none;
+    color: #023047 !important;
+}

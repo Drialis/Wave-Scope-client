@@ -1,0 +1,12 @@
+.list-group-item a {
+    text-decoration: none;
+}
+
+.beachName {
+    color: #023047;
+}
+
+.form-floating label {
+    display: flex;
+    align-items: right;
+}

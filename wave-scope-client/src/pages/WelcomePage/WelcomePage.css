@@ -1,0 +1,9 @@
+.MapCard {
+    background-image: url('https://res.cloudinary.com/du8mlfcf9/image/upload/v1717667315/4c90d2a2-93d3-45cf-ad7d-d0cda5aa42e8_eaelcs.jpg');
+    object-fit: cover;
+    background-position: center;
+    height: 85vh;
+    color: #023047 !important;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
+}
